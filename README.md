@@ -4,6 +4,11 @@
 
 ## How to install
 
+### Manually (easy, does NOT auto-update)
+
+1. Head to the releases page [here](https://github.com/zion8992/Cybiz-UI/releases)
+2. Download the latest release
+
 ### Using Git (more technical, auto-updates)
 
 #### Install (Do this once)
@@ -30,6 +35,7 @@ For the default background, I recommend using `5`%.
 
 **Background Blur** `v0.0.1`: blurs your main menu background
 
-## Supported Versions
+## Supported Cubyz Versions
 
 - `0.4.2`
+- `0.4.1`
