@@ -24,17 +24,6 @@
 2. From `assets/cubyz/ui`, run `git pull` to update the texture pack.
 3. That's all!
 
-## Tools
-
-This repo contains some python scripts which can help you improve your Cubyz UI.  
-ALL tools are in `tools` folder.
-
-**Background Blur** `background-blur.py`  
-Blur a background. Usage: `background-blur.py <file> <percent>`.  
-For the default background, I recommend using `5`%.
-
-**Background Blur** `v0.0.1`: blurs your main menu background
-
 ## Supported Cubyz Versions
 
 - `0.4.2`
